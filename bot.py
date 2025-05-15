@@ -1,6 +1,5 @@
 import discord
 import requests
-import json
 from dotenv import dotenv_values
 
 config = dotenv_values(".env")
